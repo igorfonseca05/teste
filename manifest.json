@@ -1,0 +1,7 @@
+{
+  "name": "Toqi",
+  "display": "standalone",
+  "start_url": "/",
+  "theme_color": "#E30613",
+  "background_color": "#ffffff"
+}
