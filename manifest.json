@@ -1,20 +1,27 @@
 {
   "name": "Toqi",
+  "short_name": "Toqi",
   "display": "standalone",
   "start_url": "/",
+  "scope": "/",
   "theme_color": "#E30613",
   "background_color": "#ffffff",
+  "orientation": "portrait",
+  "lang": "pt-BR",
+  "dir": "ltr",
+  "description": "App de pedidos simples e rápido.",
   "icons": [
-  {
-    "src": "/192.png",
-    "type": "image/png",
-    "sizes": "192x192"
-  },
-  {
-    "src": "/512.png",
-    "type": "image/png",
-    "sizes": "512x512"
-  }
-]
-
+    {
+      "src": "/192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "prefer_related_applications": false
 }
+
