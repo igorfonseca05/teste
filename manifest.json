@@ -1,7 +1,7 @@
 {
   "name": "Toqi",
   "short_name": "Toqi",
-  "display": "fullscreen",
+  "display": "standalone",
   "start_url": "/",
   "scope": "/",
   "theme_color": "#E30613",
